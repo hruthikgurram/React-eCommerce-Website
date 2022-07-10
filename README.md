@@ -49,7 +49,9 @@ Link to the page: [Home_Page](https://stunning-meringue-6d61b4.netlify.app/)
 
 ![ProductList](https://github.com/hruthikgurram/React-eCommerce-website/blob/main/React%20eCommerce%20Pages/ProductList.png)
 
+**Cart Page**
 
+![Cart](https://github.com/hruthikgurram/React-eCommerce-website/blob/main/React%20eCommerce%20Pages/Cart.png)
 
 
 

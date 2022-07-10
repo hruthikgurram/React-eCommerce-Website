@@ -1,10 +1,10 @@
 ## React E-Commerce Web Application
 
-This project is **Front-end part of a E-Commerce cloth selling website** using ReactJS (React.js).
+This project is the **Front-end part of an E-Commerce cloth selling website** using ReactJS (React.js).
 
-I have used styled-components and material-ui libraries to add component-level style in every part of the web application.
+I have used styled-components and material-ui libraries to add component-level style to every part of the web application.
 
-Basically, this front-end web application consists of six-pages namely:
+Basically, this front-end web application consists of six pages namely:
 
 * Home
 * Register
@@ -15,7 +15,7 @@ Basically, this front-end web application consists of six-pages namely:
 
 Now let's dive into each page. Before getting into each page, let us first understand the components of every page.
 
-There are several components in every page. Out of which the common ones are:
+There are several components on every page. Out of which the common ones are:
 
 * Navbar
 * Announcement
